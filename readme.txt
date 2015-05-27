@@ -57,6 +57,8 @@ Unfortunately the maximum supported level is as deep as the SEA.
 * Slugs are automatically generated.
 * You can't add child items to those terms which are already added. If you try to do, the given parent item will add as a new term.
 
+[GitHub repository]: https://github.com/sohan5005/bulk-add-terms
+
 
 == Installation ==
 
