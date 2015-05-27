@@ -23,24 +23,24 @@ Have you ever been frustrated adding more and more categories or tags or any oth
 ## What about nesting parent and child?
 This plugin supports to do that. You can go and do nesting. You can indent child levels with a dash (-). For example:
 
-```
+`
 Foo
 -Bar
 -Baz
-```
+`
 
 In the example above, 'foo' will be parent while 'bar' and 'baz' will be child of it.
 You can use correct indent to make even more child of child. Example:
 
-```
+`
 Foo
 -Bar
 --Baz
-```
+`
 
 Complex nesting example:
 
-```
+`
 Foo
 -Child of Foo
 --Grand child of Foo
@@ -53,7 +53,7 @@ Baz is sibling of Foo
 -Daughter of Baz
 I am a lonely term
 Do not have child
-```
+`
 
 Unfortunately the maximum supported level is as deep as the SEA.
 
