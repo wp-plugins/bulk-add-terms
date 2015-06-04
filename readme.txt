@@ -3,7 +3,7 @@ Contributors: sohan5005
 Tags: categories, admin, terms, taxonomy, tags, post
 Requires at least: 3.0.0
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,7 +57,7 @@ Unfortunately the maximum supported level is as deep as the SEA.
 * Slugs are automatically generated.
 * You can't add child items to those terms which are already added. If you try to do, the given parent item will add as a new term.
 
-[GitHub repository]: https://github.com/sohan5005/bulk-add-terms
+GitHub repository: https://github.com/sohan5005/bulk-add-terms
 
 
 == Installation ==
@@ -94,8 +94,18 @@ Yes, you can do that. Attribution will be highly appreciated.
 
 = 1.0 =
 
-Initial release
+####Initial release
+
+= 1.1 =
+
+####Features update
+
+* New options page added
+* Now same terms can be added to multiple taxonomies
+* Non-hierarchical taxonomies can be hidden from options
+* Added option to keep the text after adding terms
+* Some small bug fixes
 
 == Upgrade Notice ==
 
-As it's the first version, just enjoy it until you see a upgrade note on your dashboard!
+The newest version has some new options added. Please update to check them out. If any issues found, please post on support section.
