@@ -90,6 +90,8 @@ Yes, you can do that. Attribution will be highly appreciated.
 
 4. Then check the Category manage screen and see the terms are added as you inserted.
 
+5. The hot and fresh options page.
+
 == Changelog ==
 
 = 1.0 =
