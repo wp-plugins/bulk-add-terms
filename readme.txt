@@ -3,7 +3,7 @@ Contributors: sohan5005
 Tags: categories, admin, terms, taxonomy, tags, post
 Requires at least: 3.0.0
 Tested up to: 4.2.2
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -105,6 +105,12 @@ Yes, you can do that. Attribution will be highly appreciated.
 * Non-hierarchical taxonomies can be hidden from options
 * Added option to keep the text after adding terms
 * Some small bug fixes
+
+= 1.2 =
+
+####Fix issues
+
+* Small fix with a hierarchical problem
 
 == Upgrade Notice ==
 
